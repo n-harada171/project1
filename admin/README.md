@@ -1,4 +1,4 @@
 # project1
 
 
-readme サブディレクトリでも動かない
+ReadMeはどこいじっても動かない
