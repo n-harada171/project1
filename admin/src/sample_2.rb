@@ -1,2 +1,2 @@
 puts "Hello, World!"
-テスト動く３
+Docのした＋ReadMe＋ソースなので動く
