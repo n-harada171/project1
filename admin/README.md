@@ -1,4 +1,4 @@
 # project1
 
 
-ReadMeはどこいじっても動かない
+ReadMe＋ソースなら動く
