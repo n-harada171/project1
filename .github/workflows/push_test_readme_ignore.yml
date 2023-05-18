@@ -7,8 +7,8 @@ name: Push ignore README.md only
 on:
   push:
     paths-ignore:
-        - **/README.md
- 
+        - /**/README.md
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "greet"
