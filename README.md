@@ -1,6 +1,7 @@
 # project1
 
-ReadMe＋ソースなら動く３
+
+Docのした＋ReadMeでも動かない
 
 
 #README.mdの更新と一緒に他のファイルも更新しているのでテスト動く
